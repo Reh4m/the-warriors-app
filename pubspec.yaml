@@ -76,6 +76,11 @@ flutter:
       fonts:
         - asset: fonts/Mersey-Cowboy.otf
           style: normal
+    - family: Roboto Condensed
+      fonts:
+        - asset: fonts/roboto_condensed/RobotoCondensed-Regular.ttf
+        - asset: fonts/roboto_condensed/RobotoCondensed-Bold.ttf
+        - asset: fonts/roboto_condensed/RobotoCondensed-SemiBold.ttf
 
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
