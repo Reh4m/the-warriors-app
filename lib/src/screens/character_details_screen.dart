@@ -45,7 +45,6 @@ class CharacterDetailsScreen extends StatelessWidget {
                     ),
                   ],
                 ),
-                const SizedBox(height: 20),
                 Padding(
                   padding: const EdgeInsets.all(20.0),
                   child: AspectRatio(
@@ -125,11 +124,11 @@ class CharacterDetailsScreen extends StatelessWidget {
                   textAlign: TextAlign.center,
                   style: const TextStyle(
                     color: Colors.white,
-                    fontSize: 22,
+                    fontSize: 18,
                     fontFamily: 'Roboto Condensed',
                   ),
                 ),
-                const SizedBox(height: 20),
+                const SizedBox(height: 30),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
